@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+}
+
+.nav-links li {
+    margin-right: 50px;
+}
+
+.header-content {
+    color: white;
+    height: 72px;
+    border-radius: 0;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header {
+    padding: 20px 0;
+    border: 1px solid black;
+    filter: drop-shadow(3px 3px 3px grey);
+}
+
+.btn {
+    width: 140px;
+    height: 40px;
+    margin-right: 40px;
+    border: 2px solid #40AB7E;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+.bnt {
+    padding-left: 30px;
+    width: 140px;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    background: #7CBA72;
+}
+
+.naw {
+    width: 272px;
+    height: 42px;
+    font-size: 29px;
+    line-height: 39px;
+    margin-left: 70px;
+    color: #000000;
+}
+.wer{
+    margin-left: 70px;
+    width: 315px;
+    height: 32px;
+    font-size: 21px;
+    line-height: 29px;
+    color: #000000;
+}
+.par{
+    margin-left: 90px;
+    width: 242px;
+    height: 97px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+.det{
+    margin-left: 70px;
+    width: 334px;
+    height: 32px;
+    font-size: 21px;
+    line-height: 29px;
+    color: #000000;
+}
+.ger{
+    margin-left: 90px;
+    width: 595px;
+    height: 107px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+.fish{
+    margin-left: 70px;
+    width: 315px;
+    height: 32px;
+    font-size: 21px;
+    line-height: 29px;
+    color: #000000;
+}
+.ter{
+    margin-left: 90px;
+    width: 242px;
+    height: 97px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+.var{
+    margin-left: 70px;
+    width: 334px;
+    height: 32px;
+    font-size: 21px;
+    line-height: 29px;
+    color: #000000;
+}
+.lew{
+    margin-left: 90px;
+    width: 595px;
+    height: 107px;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+}
+.los{
+
+    color: white;
+    width: 1440px;
+    height: 82px;
+    background: #404149;
+}
+.nevis{
+    width: 270px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+padding: 30px 80px;
+
+}
